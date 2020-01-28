@@ -1,0 +1,1 @@
+The purpose of this repository is to store the code that is developed throughout this app and to have a way to check on it from any location and download the code.  Any notes that will be added will be put in this README as well.
